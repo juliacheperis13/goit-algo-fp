@@ -31,5 +31,5 @@ for dice, prob in probabilities.items():
     print("-" * len(title))
 
 
-# plt.bar(probabilities.keys(), probabilities.values())  # noqa
+# plt.bar(probabilities.keys(), probabilities.values())
 # plt.show()
